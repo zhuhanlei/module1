@@ -18,7 +18,8 @@
     "url": "git+https://github.com/zhuhanlei/repo.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "dev": "node ./src/index.js"
   },
   "bugs": {
     "url": "https://github.com/zhuhanlei/repo/issues"
